@@ -1,1 +1,2 @@
 # odin-recipes
+This is going to be my very first project with odin. Making my first web page with using the terminal, git and github. This is going to be my first real website with some of the basic knowledge of html.
